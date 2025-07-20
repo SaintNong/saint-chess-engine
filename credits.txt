@@ -1,0 +1,7 @@
+Temp file to track who to give credits to when the project gets a README.md
+
+1. Pradu Kannan for very cool magic bitboards implementation
+2. VICE from BlueFeverSoft for the general structure and process of building a chess engine
+3. BBC from Maksim Korzh (Slava Ukraini!!) for very readable code from which I could decipher how bitboards work
+4. Berserk, Ethereal, Xiphos, WyldChess for inspiration when I got stuck
+5. the Chess Programming Wiki for demystifying many chess programming techniques (https://www.chessprogramming.org/Main_Page)
