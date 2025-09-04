@@ -1,5 +1,5 @@
 # Saint chess engine
-A hobby chess engine I built in highschool (before I knew how to use git haha) in the holidays between year 11 and 12.
+A hobby UCI chess engine I built in highschool (before I knew how to use git haha) in the holidays between year 11 and 12.
 I've learned a lot since then, but it's always fun to look back on a project I worked so hard on.
 
 # Features
@@ -9,7 +9,7 @@ I've learned a lot since then, but it's always fun to look back on a project I w
 - Hash table (always replace scheme)
 - Hash move ordering
 - Static Exchange Evaluation
-- SEE pruning in quiscence search
+- SEE pruning in quiescence search
 - History Heuristic
 - Killer Heuristic
 - Null move pruning
@@ -23,7 +23,7 @@ I've learned a lot since then, but it's always fun to look back on a project I w
 - Passed and isolated pawn evaluation
 
 # **Please note that this project is very buggy**
-I have a new and better engine based built from scratch, loosely based on this one. This one will have SPRT testing and assertions placed everywhere from the start, to hopefully make sure each feature is robust before moving to the next one.
+I am builsing a new and better engine based from scratch, loosely based on this one. This one will have SPRT testing and assertions placed everywhere from the start, to hopefully make sure each feature is robust before moving to the next one.
 Also the tuner is very broken so ignore that please.
 
 # Credits
